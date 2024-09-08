@@ -1,0 +1,116 @@
+@relation  employee_promotion
+@attribute region{region_7,region_22,region_19,region_23,region_26,region_2,region_20,region_34,region_1,region_4,region_29,region_31,region_15,region_14,region_11,region_5,region_28,region_17,region_13,region_16,region_25,region_10,region_27,region_30,region_12,region_21,region_8,region_32,region_6,region_33,region_24,region_3,region_9,region_18}
+@attribute education{Mastersabove,Bachelors,BelowSecondary}
+@attribute gender{f,m}
+@attribute recruitment_channel{sourcing,other,referred}
+@attribute no_of_trainings integer[1,10]
+@attribute age integer[20,60]
+@attribute previous_year_rating integer[1,5]
+@attribute length_of_service integer[1,37]
+@attribute KPIs_met{T,F}
+@attribute awards_won{F,T}
+@attribute avg_training_score integer[39,99]
+@attribute Class{F,T}
+@inputs region,education,gender,recruitment_channel,no_of_trainings,age,previous_year_rating,length_of_service,KPIs_met,awards_won,avg_training_score
+@outputs Class
+@data
+region_26, Bachelors, m, sourcing, 1, 30, 4, 4, T, F, 88, F
+region_22, Bachelors, m, sourcing, 3, 30, 5, 2, F, F, 85, F
+region_4, Mastersabove, m, other, 1, 32, 4, 7, T, F, 84, F
+region_7, Bachelors, f, sourcing, 1, 29, 3, 5, F, F, 86, F
+region_26, Bachelors, m, other, 1, 32, 2, 4, F, F, 86, F
+region_2, Mastersabove, m, other, 1, 32, 3, 6, F, T, 79, F
+region_22, Bachelors, f, sourcing, 1, 33, 4, 3, F, F, 82, F
+region_2, Bachelors, m, other, 1, 35, 3, 5, F, F, 89, F
+region_29, Mastersabove, m, sourcing, 1, 29, 1, 2, F, F, 85, F
+region_26, Bachelors, m, sourcing, 1, 30, 3, 5, F, F, 83, F
+region_26, Mastersabove, m, other, 1, 27, 3, 4, T, F, 85, F
+region_15, Mastersabove, m, sourcing, 1, 38, 3, 6, F, F, 87, F
+region_4, Mastersabove, m, sourcing, 1, 39, 4, 9, T, F, 87, F
+region_22, Bachelors, m, other, 1, 28, 3, 3, T, F, 79, F
+region_4, Mastersabove, m, sourcing, 1, 34, 5, 7, T, F, 82, F
+region_7, Bachelors, m, sourcing, 1, 36, 5, 4, T, F, 84, F
+region_22, Bachelors, m, other, 1, 28, 3, 3, F, F, 82, F
+region_22, Mastersabove, m, sourcing, 1, 29, 4, 4, F, F, 83, F
+region_22, Bachelors, m, sourcing, 1, 31, 3, 4, F, F, 85, F
+region_22, Bachelors, m, other, 1, 28, 2, 3, F, F, 86, F
+region_22, Mastersabove, m, sourcing, 1, 31, 3, 3, F, F, 84, F
+region_22, Bachelors, m, referred, 1, 29, 5, 3, T, F, 88, F
+region_4, Mastersabove, m, other, 2, 45, 3, 5, F, F, 82, F
+region_26, Bachelors, m, other, 3, 28, 4, 3, F, F, 84, F
+region_23, Mastersabove, m, other, 1, 34, 4, 7, T, F, 84, F
+region_31, Mastersabove, m, other, 1, 28, ?, 1, F, F, 86, F
+region_2, Bachelors, m, other, 1, 31, 4, 6, F, F, 87, F
+region_4, Mastersabove, m, other, 1, 37, 4, 3, T, F, 86, F
+region_29, Mastersabove, m, other, 1, 27, 5, 2, F, F, 86, F
+region_4, Mastersabove, m, sourcing, 1, 36, 4, 8, T, F, 84, F
+region_22, Bachelors, f, other, 1, 28, 5, 2, T, F, 88, F
+region_22, Bachelors, m, other, 3, 30, 4, 1, F, F, 88, F
+region_8, Bachelors, m, sourcing, 1, 31, 3, 5, F, F, 82, F
+region_26, Bachelors, m, other, 2, 27, 3, 4, F, F, 81, F
+region_30, Bachelors, f, sourcing, 1, 32, 4, 3, T, F, 85, F
+region_2, Mastersabove, m, other, 1, 41, 5, 11, T, F, 82, F
+region_2, Mastersabove, m, sourcing, 1, 48, 3, 6, T, F, 88, F
+region_2, Mastersabove, m, other, 1, 44, 3, 14, F, F, 85, F
+region_22, Mastersabove, m, other, 1, 34, 4, 4, F, F, 83, F
+region_7, Mastersabove, m, sourcing, 1, 37, 4, 10, F, F, 82, F
+region_26, Mastersabove, m, sourcing, 1, 27, ?, 1, F, F, 85, F
+region_22, Bachelors, m, other, 1, 25, ?, 1, F, F, 80, F
+region_22, Bachelors, m, other, 2, 30, 5, 3, T, F, 80, F
+region_7, Bachelors, m, other, 2, 35, 5, 3, T, F, 83, F
+region_2, Mastersabove, m, other, 1, 41, 3, 4, F, F, 86, F
+region_22, Bachelors, m, referred, 2, 29, 5, 2, T, F, 89, F
+region_22, Mastersabove, m, sourcing, 1, 32, 3, 6, F, F, 88, F
+region_2, Mastersabove, m, sourcing, 1, 38, 3, 8, F, F, 80, F
+region_8, Bachelors, m, other, 1, 30, 4, 6, F, F, 85, F
+region_22, Bachelors, f, other, 1, 30, 3, 1, T, F, 83, F
+region_7, Mastersabove, m, other, 2, 35, 4, 8, F, F, 82, F
+region_4, Mastersabove, m, sourcing, 1, 43, 4, 7, T, F, 80, F
+region_22, Bachelors, m, sourcing, 2, 28, 2, 4, F, F, 85, F
+region_29, Bachelors, m, sourcing, 1, 29, 3, 1, F, F, 85, F
+region_3, Mastersabove, m, sourcing, 1, 37, 3, 9, T, F, 81, F
+region_23, Bachelors, m, sourcing, 1, 34, 3, 3, T, F, 87, F
+region_26, Bachelors, m, other, 1, 34, 5, 3, F, F, 81, F
+region_22, Bachelors, m, other, 1, 32, 4, 6, T, F, 81, F
+region_2, Bachelors, m, sourcing, 1, 43, 3, 13, F, F, 82, F
+region_7, Mastersabove, m, other, 1, 41, 1, 10, F, F, 90, F
+region_2, ?, m, other, 2, 26, 2, 3, F, F, 85, F
+region_15, Mastersabove, m, sourcing, 1, 31, ?, 1, F, F, 84, F
+region_15, Mastersabove, m, other, 1, 34, 3, 6, F, F, 87, F
+region_22, ?, m, other, 1, 31, 4, 5, T, F, 82, F
+region_22, Mastersabove, m, sourcing, 1, 34, 5, 5, T, F, 86, F
+region_11, Bachelors, m, sourcing, 2, 28, 1, 4, T, T, 83, F
+region_31, Mastersabove, m, sourcing, 1, 36, 3, 2, T, F, 85, F
+region_22, Mastersabove, m, sourcing, 1, 35, 3, 2, F, F, 86, F
+region_31, Mastersabove, m, sourcing, 1, 33, 5, 6, T, F, 79, F
+region_7, Mastersabove, m, sourcing, 2, 34, ?, 1, F, F, 83, F
+region_22, Bachelors, f, other, 2, 31, 1, 2, T, F, 81, F
+region_26, Bachelors, m, other, 1, 26, 5, 2, T, F, 88, F
+region_25, Mastersabove, m, other, 2, 30, 5, 5, T, F, 84, F
+region_31, Bachelors, m, sourcing, 1, 36, 2, 7, F, T, 89, F
+region_2, Bachelors, m, sourcing, 1, 49, 3, 16, F, F, 87, F
+region_16, Bachelors, m, other, 1, 32, 3, 4, F, F, 85, F
+region_26, Mastersabove, m, other, 1, 34, 2, 5, F, F, 86, F
+region_4, Bachelors, m, other, 1, 34, 5, 10, T, F, 85, F
+region_3, Mastersabove, m, other, 1, 37, 3, 5, F, F, 84, F
+region_2, Mastersabove, m, other, 2, 34, 3, 8, F, F, 85, F
+region_13, Mastersabove, m, other, 1, 38, 3, 2, T, F, 89, F
+region_26, Mastersabove, m, other, 4, 29, 1, 4, F, F, 87, F
+region_22, Bachelors, m, other, 3, 28, 3, 8, F, F, 87, F
+region_3, Mastersabove, m, sourcing, 2, 38, 3, 3, F, F, 83, F
+region_7, Mastersabove, m, sourcing, 1, 34, 3, 9, F, F, 87, F
+region_22, Bachelors, m, other, 3, 30, 5, 3, T, F, 77, F
+region_2, Mastersabove, m, other, 1, 39, 5, 3, F, F, 84, F
+region_7, Mastersabove, m, other, 1, 35, 3, 6, F, F, 80, F
+region_15, Bachelors, m, sourcing, 1, 30, ?, 1, F, F, 86, F
+region_16, Bachelors, m, other, 1, 33, 3, 4, T, F, 88, F
+region_22, Bachelors, m, other, 2, 26, ?, 1, F, F, 87, F
+region_22, ?, m, other, 1, 27, 3, 4, F, F, 80, F
+region_25, Bachelors, m, sourcing, 1, 30, 4, 7, F, F, 82, F
+region_22, Mastersabove, m, sourcing, 1, 32, 5, 2, T, F, 85, T
+region_7, Bachelors, m, other, 1, 35, 5, 8, T, F, 88, T
+region_7, Bachelors, m, other, 1, 29, 3, 3, F, F, 85, T
+region_22, Bachelors, m, other, 2, 30, 4, 4, T, F, 84, T
+region_4, Mastersabove, f, sourcing, 1, 35, 5, 3, T, F, 84, T
+region_22, Mastersabove, m, other, 1, 30, 4, 2, T, F, 96, T
+region_22, Bachelors, m, other, 1, 31, 5, 3, F, F, 82, T

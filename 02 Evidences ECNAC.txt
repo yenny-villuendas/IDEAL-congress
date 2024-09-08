@@ -1,0 +1,2100 @@
+Testing instance: 0 with values region_2,Mastersabove,m,sourcing,2,30,3,4,F,F,88,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.153795528592817
+Evidence against decision F 
+Minimum similarity: 0.0769826302537886 for instance 353 with values: region_22,Bachelors,f,other,1,29,null,1,T,F,86,
+Evidence in favor of decision F 
+Maximum similarity: 0.276864843710392 for instance 720 with values: region_2,Mastersabove,m,sourcing,2,31,3,3,F,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.134862400620505
+Evidence against decision T 
+Minimum similarity: 0.0964628571065437 for instance 498 with values: region_22,Bachelors,m,sourcing,1,30,null,1,T,T,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.197555102229354 for instance 396 with values: region_22,Mastersabove,m,sourcing,2,27,5,4,F,F,84,
+
+----------------------------------------------------------
+Testing instance: 1 with values region_8,Mastersabove,m,other,1,29,4,2,F,F,85,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.151288829843183
+Evidence against decision F 
+Minimum similarity: 0.0854489118581127 for instance 265 with values: region_11,Bachelors,m,sourcing,2,28,1,4,T,T,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.210350775758349 for instance 23 with values: region_22,Mastersabove,m,other,1,29,4,3,F,F,84,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.138440673975865
+Evidence against decision T 
+Minimum similarity: 0.0782896277041258 for instance 498 with values: region_22,Bachelors,m,sourcing,1,30,null,1,T,T,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.19947960300045 for instance 794 with values: region_28,Mastersabove,m,other,1,37,5,8,F,F,84,
+
+----------------------------------------------------------
+Testing instance: 2 with values region_26,Bachelors,m,sourcing,1,32,3,5,F,F,84,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.155208912991188
+Evidence against decision F 
+Minimum similarity: 0.0948308844170206 for instance 39 with values: region_23,Mastersabove,m,other,2,37,3,10,T,T,84,
+Evidence in favor of decision F 
+Maximum similarity: 0.293038128211756 for instance 209 with values: region_26,Bachelors,m,sourcing,1,30,3,5,F,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.142352756217264
+Evidence against decision T 
+Minimum similarity: 0.0941217051225816 for instance 899 with values: region_2,null,m,other,2,24,null,1,T,F,83,
+Evidence in favor of decision T 
+Maximum similarity: 0.210409305108829 for instance 494 with values: region_26,Bachelors,m,other,1,33,3,4,F,F,84,
+
+----------------------------------------------------------
+Testing instance: 3 with values region_22,Mastersabove,m,other,1,29,3,5,F,F,85,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.159418802343115
+Evidence against decision F 
+Minimum similarity: 0.0916741446862961 for instance 265 with values: region_11,Bachelors,m,sourcing,2,28,1,4,T,T,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.278024162731024 for instance 352 with values: region_22,Mastersabove,m,other,1,28,4,4,F,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.146077190323494
+Evidence against decision T 
+Minimum similarity: 0.0928320082652184 for instance 97 with values: region_26,Bachelors,m,sourcing,2,40,3,2,T,T,84,
+Evidence in favor of decision T 
+Maximum similarity: 0.199108244818683 for instance 93 with values: region_22,Mastersabove,m,other,1,32,5,4,T,F,86,
+
+----------------------------------------------------------
+Testing instance: 4 with values region_29,Bachelors,m,other,1,33,1,4,F,F,86,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.146456169973943
+Evidence against decision F 
+Minimum similarity: 0.0768677457449591 for instance 741 with values: region_26,Mastersabove,f,sourcing,1,28,null,1,T,F,82,
+Evidence in favor of decision F 
+Maximum similarity: 0.253477255359899 for instance 324 with values: region_29,Bachelors,m,other,1,34,3,7,F,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.130756238619275
+Evidence against decision T 
+Minimum similarity: 0.0784639387416655 for instance 297 with values: region_4,Mastersabove,f,sourcing,1,35,5,3,T,F,84,
+Evidence in favor of decision T 
+Maximum similarity: 0.199422405375123 for instance 494 with values: region_26,Bachelors,m,other,1,33,3,4,F,F,84,
+
+----------------------------------------------------------
+Testing instance: 5 with values region_11,Bachelors,m,other,3,31,5,6,T,F,80,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.141894923262804
+Evidence against decision F 
+Minimum similarity: 0.0781946752350722 for instance 889 with values: region_7,Mastersabove,m,sourcing,1,33,null,1,F,F,96,
+Evidence in favor of decision F 
+Maximum similarity: 0.271705300075661 for instance 652 with values: region_11,Bachelors,m,other,3,28,5,3,T,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.151739702128775
+Evidence against decision T 
+Minimum similarity: 0.0865032528707255 for instance 394 with values: region_4,Mastersabove,m,sourcing,1,34,3,4,F,T,85,
+Evidence in favor of decision T 
+Maximum similarity: 0.26144403782072 for instance 897 with values: region_11,Bachelors,m,other,2,31,4,2,T,F,83,
+
+----------------------------------------------------------
+Testing instance: 6 with values region_4,Mastersabove,m,other,1,33,3,3,F,F,82,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.153581928293749
+Evidence against decision F 
+Minimum similarity: 0.0911271986565845 for instance 421 with values: region_22,Bachelors,f,sourcing,1,31,5,3,T,F,88,
+Evidence in favor of decision F 
+Maximum similarity: 0.283100415266105 for instance 554 with values: region_4,Mastersabove,m,other,1,36,3,6,F,F,81,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.138542084134263
+Evidence against decision T 
+Minimum similarity: 0.0765390426358333 for instance 498 with values: region_22,Bachelors,m,sourcing,1,30,null,1,T,T,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.199633561245933 for instance 194 with values: region_4,Mastersabove,m,other,1,36,4,10,T,F,86,
+
+----------------------------------------------------------
+Testing instance: 7 with values region_4,Bachelors,m,sourcing,1,35,5,7,F,F,89,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.148572098974673
+Evidence against decision F 
+Minimum similarity: 0.0861451978870005 for instance 313 with values: region_22,Mastersabove,f,other,2,29,3,2,T,F,81,
+Evidence in favor of decision F 
+Maximum similarity: 0.267780612419279 for instance 604 with values: region_4,Bachelors,m,sourcing,1,33,4,3,F,F,86,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.139489216294108
+Evidence against decision T 
+Minimum similarity: 0.0894584105535858 for instance 899 with values: region_2,null,m,other,2,24,null,1,T,F,83,
+Evidence in favor of decision T 
+Maximum similarity: 0.198963661162567 for instance 198 with values: region_29,Bachelors,m,sourcing,1,30,5,1,F,F,96,
+
+----------------------------------------------------------
+Testing instance: 8 with values region_32,Mastersabove,m,other,2,29,1,2,F,F,84,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.141822803217258
+Evidence against decision F 
+Minimum similarity: 0.0766972143252279 for instance 421 with values: region_22,Bachelors,f,sourcing,1,31,5,3,T,F,88,
+Evidence in favor of decision F 
+Maximum similarity: 0.278285880655577 for instance 108 with values: region_32,Mastersabove,m,other,1,29,1,2,F,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.123931819439818
+Evidence against decision T 
+Minimum similarity: 0.0767788000918772 for instance 498 with values: region_22,Bachelors,m,sourcing,1,30,null,1,T,T,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.164938851555061 for instance 794 with values: region_28,Mastersabove,m,other,1,37,5,8,F,F,84,
+
+----------------------------------------------------------
+Testing instance: 9 with values region_26,Bachelors,m,other,1,30,3,4,F,F,83,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.15781198023631
+Evidence against decision F 
+Minimum similarity: 0.0919400629850128 for instance 115 with values: region_2,Mastersabove,f,sourcing,1,36,5,4,T,F,81,
+Evidence in favor of decision F 
+Maximum similarity: 0.294518337584757 for instance 165 with values: region_26,Bachelors,m,other,1,28,3,4,F,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.147296027635631
+Evidence against decision T 
+Minimum similarity: 0.0923705913345124 for instance 297 with values: region_4,Mastersabove,f,sourcing,1,35,5,3,T,F,84,
+Evidence in favor of decision T 
+Maximum similarity: 0.289982117409801 for instance 494 with values: region_26,Bachelors,m,other,1,33,3,4,F,F,84,
+
+----------------------------------------------------------
+Testing instance: 10 with values region_22,Bachelors,m,sourcing,1,27,4,3,T,F,87,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.152123274820683
+Evidence against decision F 
+Minimum similarity: 0.087635951546218 for instance 74 with values: region_4,Mastersabove,m,other,1,45,1,16,F,F,84,
+Evidence in favor of decision F 
+Maximum similarity: 0.278024162731024 for instance 160 with values: region_22,Bachelors,m,sourcing,2,26,4,2,T,F,87,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.165444968187837
+Evidence against decision T 
+Minimum similarity: 0.0776397984271505 for instance 99 with values: region_2,Mastersabove,f,other,1,33,null,1,F,F,87,
+Evidence in favor of decision T 
+Maximum similarity: 0.274289570208078 for instance 595 with values: region_22,Bachelors,m,sourcing,2,30,4,2,T,F,85,
+
+----------------------------------------------------------
+Testing instance: 11 with values region_13,Mastersabove,m,other,1,38,5,4,T,F,86,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.143517413522322
+Evidence against decision F 
+Minimum similarity: 0.0751898718720854 for instance 491 with values: region_22,Bachelors,f,sourcing,1,28,null,1,F,F,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.288729780091797 for instance 666 with values: region_13,Mastersabove,m,other,1,36,5,2,T,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.149583445795991
+Evidence against decision T 
+Minimum similarity: 0.0874764009313831 for instance 699 with values: region_22,Bachelors,m,sourcing,2,29,3,2,F,T,80,
+Evidence in favor of decision T 
+Maximum similarity: 0.208212994478978 for instance 93 with values: region_22,Mastersabove,m,other,1,32,5,4,T,F,86,
+
+----------------------------------------------------------
+Testing instance: 12 with values region_22,Bachelors,m,other,1,39,3,9,F,F,86,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.16028010659984
+Evidence against decision F 
+Minimum similarity: 0.0715167213736389 for instance 741 with values: region_26,Mastersabove,f,sourcing,1,28,null,1,T,F,82,
+Evidence in favor of decision F 
+Maximum similarity: 0.289982117409801 for instance 373 with values: region_22,Bachelors,m,other,1,36,3,10,F,F,86,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.14801036125085
+Evidence against decision T 
+Minimum similarity: 0.0905616626853264 for instance 297 with values: region_4,Mastersabove,f,sourcing,1,35,5,3,T,F,84,
+Evidence in favor of decision T 
+Maximum similarity: 0.237958225158212 for instance 299 with values: region_22,Bachelors,m,other,1,31,5,3,F,F,82,
+
+----------------------------------------------------------
+Testing instance: 13 with values region_22,Mastersabove,m,other,1,28,3,2,F,F,81,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.157427179763812
+Evidence against decision F 
+Minimum similarity: 0.0915396687071038 for instance 265 with values: region_11,Bachelors,m,sourcing,2,28,1,4,T,T,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.273985230610655 for instance 23 with values: region_22,Mastersabove,m,other,1,29,4,3,F,F,84,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.144366908401878
+Evidence against decision T 
+Minimum similarity: 0.0913232722536687 for instance 96 with values: region_7,Bachelors,m,sourcing,1,29,5,5,T,T,86,
+Evidence in favor of decision T 
+Maximum similarity: 0.199250549093852 for instance 596 with values: region_22,Bachelors,m,other,3,29,3,3,F,F,83,
+
+----------------------------------------------------------
+Testing instance: 14 with values region_26,Bachelors,m,sourcing,1,33,5,6,T,F,82,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.145089190377353
+Evidence against decision F 
+Minimum similarity: 0.0757588282763768 for instance 840 with values: region_22,Mastersabove,f,other,1,26,null,1,F,F,85,
+Evidence in favor of decision F 
+Maximum similarity: 0.286278218271856 for instance 418 with values: region_26,Bachelors,m,sourcing,1,31,5,4,T,F,84,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.156939616792724
+Evidence against decision T 
+Minimum similarity: 0.076274936999968 for instance 99 with values: region_2,Mastersabove,f,other,1,33,null,1,F,F,87,
+Evidence in favor of decision T 
+Maximum similarity: 0.210476427877092 for instance 594 with values: region_26,Bachelors,m,other,1,33,5,6,T,F,83,
+
+----------------------------------------------------------
+Testing instance: 15 with values region_2,Mastersabove,m,other,1,36,5,4,F,F,82,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.154256496274848
+Evidence against decision F 
+Minimum similarity: 0.0758819285372729 for instance 265 with values: region_11,Bachelors,m,sourcing,2,28,1,4,T,T,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.286528151519733 for instance 286 with values: region_2,Mastersabove,m,other,1,39,5,3,F,F,84,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.140096008916594
+Evidence against decision T 
+Minimum similarity: 0.0755531794766007 for instance 498 with values: region_22,Bachelors,m,sourcing,1,30,null,1,T,T,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.279468073069204 for instance 397 with values: region_2,Mastersabove,m,other,1,42,5,5,F,F,81,
+
+----------------------------------------------------------
+Testing instance: 16 with values region_22,null,m,sourcing,1,27,1,3,F,F,82,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.134621553020788
+Evidence against decision F 
+Minimum similarity: 0.0723002997281196 for instance 712 with values: region_2,Bachelors,f,other,1,39,5,7,T,F,88,
+Evidence in favor of decision F 
+Maximum similarity: 0.301511344577764 for instance 16 with values: region_22,null,m,sourcing,1,27,1,3,F,F,82,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.120396281300834
+Evidence against decision T 
+Minimum similarity: 0.0917248476357558 for instance 797 with values: region_4,Mastersabove,f,other,1,34,3,3,T,F,81,
+Evidence in favor of decision T 
+Maximum similarity: 0.170515463767109 for instance 396 with values: region_22,Mastersabove,m,sourcing,2,27,5,4,F,F,84,
+
+----------------------------------------------------------
+Testing instance: 17 with values region_22,Bachelors,m,other,1,29,3,4,F,F,82,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.162967398355359
+Evidence against decision F 
+Minimum similarity: 0.0783409127655865 for instance 741 with values: region_26,Mastersabove,f,sourcing,1,28,null,1,T,F,82,
+Evidence in favor of decision F 
+Maximum similarity: 0.295585234092631 for instance 216 with values: region_22,Bachelors,m,other,1,28,3,3,F,F,82,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.151802427796019
+Evidence against decision T 
+Minimum similarity: 0.0918854508594327 for instance 297 with values: region_4,Mastersabove,f,sourcing,1,35,5,3,T,F,84,
+Evidence in favor of decision T 
+Maximum similarity: 0.255555907467002 for instance 596 with values: region_22,Bachelors,m,other,3,29,3,3,F,F,83,
+
+----------------------------------------------------------
+Testing instance: 18 with values region_4,Bachelors,m,sourcing,1,31,5,4,F,F,86,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.150453297508142
+Evidence against decision F 
+Minimum similarity: 0.0887654681191081 for instance 39 with values: region_23,Mastersabove,m,other,2,37,3,10,T,T,84,
+Evidence in favor of decision F 
+Maximum similarity: 0.277255946803144 for instance 604 with values: region_4,Bachelors,m,sourcing,1,33,4,3,F,F,86,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.141678837896105
+Evidence against decision T 
+Minimum similarity: 0.0945089949495156 for instance 899 with values: region_2,null,m,other,2,24,null,1,T,F,83,
+Evidence in favor of decision T 
+Maximum similarity: 0.197722845871306 for instance 198 with values: region_29,Bachelors,m,sourcing,1,30,5,1,F,F,96,
+
+----------------------------------------------------------
+Testing instance: 19 with values region_22,Mastersabove,m,sourcing,1,29,3,3,T,F,86,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.149600447533607
+Evidence against decision F 
+Minimum similarity: 0.086835913696468 for instance 801 with values: region_4,Bachelors,m,other,4,29,null,1,F,F,85,
+Evidence in favor of decision F 
+Maximum similarity: 0.295585234092631 for instance 648 with values: region_22,Mastersabove,m,sourcing,1,30,3,4,T,F,86,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.157058347837133
+Evidence against decision T 
+Minimum similarity: 0.0923705913345124 for instance 893 with values: region_2,Bachelors,f,other,1,34,5,4,F,F,85,
+Evidence in favor of decision T 
+Maximum similarity: 0.254373970548754 for instance 293 with values: region_22,Mastersabove,m,sourcing,1,32,5,2,T,F,85,
+
+----------------------------------------------------------
+Testing instance: 20 with values region_25,Bachelors,m,other,2,31,4,3,F,F,84,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.154978137738922
+Evidence against decision F 
+Minimum similarity: 0.0770197375950504 for instance 741 with values: region_26,Mastersabove,f,sourcing,1,28,null,1,T,F,82,
+Evidence in favor of decision F 
+Maximum similarity: 0.247729540973269 for instance 457 with values: region_25,Bachelors,m,other,1,32,2,5,F,F,81,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.144103524340893
+Evidence against decision T 
+Minimum similarity: 0.093903330986283 for instance 799 with values: region_22,Mastersabove,m,sourcing,1,29,null,1,T,F,77,
+Evidence in favor of decision T 
+Maximum similarity: 0.204716117129598 for instance 596 with values: region_22,Bachelors,m,other,3,29,3,3,F,F,83,
+
+----------------------------------------------------------
+Testing instance: 21 with values region_22,Mastersabove,m,referred,1,30,5,4,T,F,86,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.135670509144392
+Evidence against decision F 
+Minimum similarity: 0.0840071048623593 for instance 674 with values: region_2,Bachelors,m,sourcing,4,40,1,5,F,F,84,
+Evidence in favor of decision F 
+Maximum similarity: 0.27685162193651 for instance 21 with values: region_22,Mastersabove,m,referred,2,30,5,4,T,F,88,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.146339504492303
+Evidence against decision T 
+Minimum similarity: 0.0913771742036751 for instance 94 with values: region_2,Bachelors,f,other,1,34,3,9,F,F,86,
+Evidence in favor of decision T 
+Maximum similarity: 0.210333688560943 for instance 93 with values: region_22,Mastersabove,m,other,1,32,5,4,T,F,86,
+
+----------------------------------------------------------
+Testing instance: 22 with values region_2,Bachelors,m,other,2,47,5,5,T,F,81,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.142746641319386
+Evidence against decision F 
+Minimum similarity: 0.0784590611892724 for instance 889 with values: region_7,Mastersabove,m,sourcing,1,33,null,1,F,F,96,
+Evidence in favor of decision F 
+Maximum similarity: 0.263915739536849 for instance 635 with values: region_2,Bachelors,m,other,1,39,5,6,T,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.148351785511066
+Evidence against decision T 
+Minimum similarity: 0.0852442663816329 for instance 695 with values: region_26,Mastersabove,m,sourcing,2,29,null,1,F,F,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.201877521299756 for instance 597 with values: region_26,Bachelors,m,other,2,36,5,3,T,F,79,
+
+----------------------------------------------------------
+Testing instance: 23 with values region_8,Bachelors,m,sourcing,1,29,5,3,T,F,84,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.142813590440001
+Evidence against decision F 
+Minimum similarity: 0.0783269523508018 for instance 840 with values: region_22,Mastersabove,f,other,1,26,null,1,F,F,85,
+Evidence in favor of decision F 
+Maximum similarity: 0.210409305108829 for instance 852 with values: region_22,Bachelors,m,sourcing,1,28,5,3,T,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.154336290210282
+Evidence against decision T 
+Minimum similarity: 0.0777257380681553 for instance 99 with values: region_2,Mastersabove,f,other,1,33,null,1,F,F,87,
+Evidence in favor of decision T 
+Maximum similarity: 0.295585234092631 for instance 395 with values: region_8,Bachelors,m,sourcing,1,28,5,4,T,F,84,
+
+----------------------------------------------------------
+Testing instance: 24 with values region_4,Mastersabove,m,sourcing,1,34,3,5,F,F,84,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.151057923822793
+Evidence against decision F 
+Minimum similarity: 0.0771226633733647 for instance 353 with values: region_22,Bachelors,f,other,1,29,null,1,T,F,86,
+Evidence in favor of decision F 
+Maximum similarity: 0.296726655582548 for instance 24 with values: region_4,Mastersabove,m,sourcing,1,34,3,6,F,F,84,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.135222460677491
+Evidence against decision T 
+Minimum similarity: 0.0930633129857416 for instance 899 with values: region_2,null,m,other,2,24,null,1,T,F,83,
+Evidence in favor of decision T 
+Maximum similarity: 0.210350775758349 for instance 394 with values: region_4,Mastersabove,m,sourcing,1,34,3,4,F,T,85,
+
+----------------------------------------------------------
+Testing instance: 25 with values region_22,Bachelors,m,other,1,28,null,1,T,F,86,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.135170063940161
+Evidence against decision F 
+Minimum similarity: 0.0709176955118782 for instance 59 with values: region_2,Mastersabove,m,sourcing,5,42,3,7,F,F,90,
+Evidence in favor of decision F 
+Maximum similarity: 0.301511344577764 for instance 25 with values: region_22,Bachelors,m,other,1,28,null,1,T,F,86,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.149330638589493
+Evidence against decision T 
+Minimum similarity: 0.0773332264026133 for instance 394 with values: region_4,Mastersabove,m,sourcing,1,34,3,4,F,T,85,
+Evidence in favor of decision T 
+Maximum similarity: 0.207385432745677 for instance 196 with values: region_22,Bachelors,m,other,1,28,3,6,T,F,87,
+
+----------------------------------------------------------
+Testing instance: 26 with values region_7,Bachelors,m,sourcing,1,31,5,6,F,F,86,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.151630925850688
+Evidence against decision F 
+Minimum similarity: 0.08928695751322 for instance 592 with values: region_4,Mastersabove,f,other,2,35,3,2,T,F,81,
+Evidence in favor of decision F 
+Maximum similarity: 0.27658679109475 for instance 817 with values: region_7,Bachelors,m,sourcing,1,29,5,3,F,F,82,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.141438200110328
+Evidence against decision T 
+Minimum similarity: 0.0910907418770598 for instance 797 with values: region_4,Mastersabove,f,other,1,34,3,3,T,F,81,
+Evidence in favor of decision T 
+Maximum similarity: 0.205567112076299 for instance 793 with values: region_7,Bachelors,m,sourcing,2,32,5,3,T,F,83,
+
+----------------------------------------------------------
+Testing instance: 27 with values region_16,Bachelors,m,other,2,37,5,3,T,F,88,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.144364436898474
+Evidence against decision F 
+Minimum similarity: 0.0889899764120032 for instance 690 with values: region_2,null,m,sourcing,4,26,null,1,F,F,85,
+Evidence in favor of decision F 
+Maximum similarity: 0.251577643491678 for instance 505 with values: region_16,Bachelors,m,other,1,32,5,6,T,F,80,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.154949181465006
+Evidence against decision T 
+Minimum similarity: 0.0911689546612162 for instance 394 with values: region_4,Mastersabove,m,sourcing,1,34,3,4,F,T,85,
+Evidence in favor of decision T 
+Maximum similarity: 0.205588998917493 for instance 693 with values: region_15,Bachelors,m,other,1,32,5,4,T,F,90,
+
+----------------------------------------------------------
+Testing instance: 28 with values region_22,Bachelors,m,other,1,27,5,3,T,F,84,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.152641620343713
+Evidence against decision F 
+Minimum similarity: 0.0839576168542115 for instance 59 with values: region_2,Mastersabove,m,sourcing,5,42,3,7,F,F,90,
+Evidence in favor of decision F 
+Maximum similarity: 0.289982117409801 for instance 672 with values: region_22,Bachelors,m,other,1,30,5,2,T,F,84,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.168946919152331
+Evidence against decision T 
+Minimum similarity: 0.0916702915209797 for instance 394 with values: region_4,Mastersabove,m,sourcing,1,34,3,4,F,T,85,
+Evidence in favor of decision T 
+Maximum similarity: 0.267364881652152 for instance 296 with values: region_22,Bachelors,m,other,2,30,4,4,T,F,84,
+
+----------------------------------------------------------
+Testing instance: 29 with values region_27,Bachelors,m,other,1,36,3,7,T,F,85,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.148659471945313
+Evidence against decision F 
+Minimum similarity: 0.0819121090476428 for instance 871 with values: region_2,Mastersabove,m,sourcing,4,26,null,1,F,F,88,
+Evidence in favor of decision F 
+Maximum similarity: 0.272441418676116 for instance 126 with values: region_27,Bachelors,m,other,1,31,4,6,T,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.154981210282384
+Evidence against decision T 
+Minimum similarity: 0.0930213197115829 for instance 695 with values: region_26,Mastersabove,m,sourcing,2,29,null,1,F,F,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.206012894047632 for instance 694 with values: region_4,Bachelors,m,other,2,33,3,4,T,F,84,
+
+----------------------------------------------------------
+Testing instance: 30 with values region_22,Bachelors,m,sourcing,1,28,null,1,F,F,88,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.13778480024848
+Evidence against decision F 
+Minimum similarity: 0.0706126235123135 for instance 39 with values: region_23,Mastersabove,m,other,2,37,3,10,T,T,84,
+Evidence in favor of decision F 
+Maximum similarity: 0.301511344577764 for instance 30 with values: region_22,Bachelors,m,sourcing,1,28,null,1,F,F,88,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.132136910080797
+Evidence against decision T 
+Minimum similarity: 0.0751482769935575 for instance 797 with values: region_4,Mastersabove,f,other,1,34,3,3,T,F,81,
+Evidence in favor of decision T 
+Maximum similarity: 0.184304774383898 for instance 98 with values: region_22,Bachelors,m,sourcing,4,28,null,1,T,F,94,
+
+----------------------------------------------------------
+Testing instance: 31 with values region_10,Bachelors,m,sourcing,1,30,3,2,F,F,88,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.150513091604644
+Evidence against decision F 
+Minimum similarity: 0.0911085067261002 for instance 39 with values: region_23,Mastersabove,m,other,2,37,3,10,T,T,84,
+Evidence in favor of decision F 
+Maximum similarity: 0.210409305108829 for instance 381 with values: region_2,Bachelors,m,sourcing,1,31,3,3,F,F,88,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.137262741319014
+Evidence against decision T 
+Minimum similarity: 0.094450515919253 for instance 899 with values: region_2,null,m,other,2,24,null,1,T,F,83,
+Evidence in favor of decision T 
+Maximum similarity: 0.192797777424637 for instance 198 with values: region_29,Bachelors,m,sourcing,1,30,5,1,F,F,96,
+
+----------------------------------------------------------
+Testing instance: 32 with values region_22,Mastersabove,m,other,1,31,3,5,F,F,83,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.159749932706658
+Evidence against decision F 
+Minimum similarity: 0.0916592972759171 for instance 265 with values: region_11,Bachelors,m,sourcing,2,28,1,4,T,T,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.284564911845748 for instance 543 with values: region_22,Mastersabove,m,other,1,35,3,5,F,F,81,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.145954883073991
+Evidence against decision T 
+Minimum similarity: 0.0926013851744389 for instance 96 with values: region_7,Bachelors,m,sourcing,1,29,5,5,T,T,86,
+Evidence in favor of decision T 
+Maximum similarity: 0.199310342839516 for instance 299 with values: region_22,Bachelors,m,other,1,31,5,3,F,F,82,
+
+----------------------------------------------------------
+Testing instance: 33 with values region_27,Mastersabove,m,other,1,27,5,4,F,F,80,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.146554581580076
+Evidence against decision F 
+Minimum similarity: 0.0771866456236506 for instance 265 with values: region_11,Bachelors,m,sourcing,2,28,1,4,T,T,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.269734784867988 for instance 661 with values: region_27,Mastersabove,m,other,1,31,4,2,F,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.135953280278206
+Evidence against decision T 
+Minimum similarity: 0.0748662170086453 for instance 498 with values: region_22,Bachelors,m,sourcing,1,30,null,1,T,T,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.200666165946679 for instance 593 with values: region_27,Mastersabove,m,sourcing,1,33,5,4,F,F,88,
+
+----------------------------------------------------------
+Testing instance: 34 with values region_22,Bachelors,m,other,2,32,4,2,F,F,86,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.163034447984179
+Evidence against decision F 
+Minimum similarity: 0.0763711669070137 for instance 741 with values: region_26,Mastersabove,f,sourcing,1,28,null,1,T,F,82,
+Evidence in favor of decision F 
+Maximum similarity: 0.294518337584757 for instance 445 with values: region_22,Bachelors,m,other,2,30,4,2,F,F,86,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.154610851295978
+Evidence against decision T 
+Minimum similarity: 0.0951624459254067 for instance 297 with values: region_4,Mastersabove,f,sourcing,1,35,5,3,T,F,84,
+Evidence in favor of decision T 
+Maximum similarity: 0.264470553963111 for instance 596 with values: region_22,Bachelors,m,other,3,29,3,3,F,F,83,
+
+----------------------------------------------------------
+Testing instance: 35 with values region_2,Bachelors,m,sourcing,1,39,3,12,T,F,83,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.145878186082682
+Evidence against decision F 
+Minimum similarity: 0.068027836253085 for instance 840 with values: region_22,Mastersabove,f,other,1,26,null,1,F,F,85,
+Evidence in favor of decision F 
+Maximum similarity: 0.260025713946348 for instance 726 with values: region_2,Bachelors,m,sourcing,1,31,3,7,T,F,87,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.146904869682896
+Evidence against decision T 
+Minimum similarity: 0.0896179552193105 for instance 99 with values: region_2,Mastersabove,f,other,1,33,null,1,F,F,87,
+Evidence in favor of decision T 
+Maximum similarity: 0.230282331306303 for instance 197 with values: region_2,Bachelors,m,sourcing,2,36,5,2,T,F,85,
+
+----------------------------------------------------------
+Testing instance: 36 with values region_2,Bachelors,m,other,2,44,5,2,T,T,86,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.121535951391006
+Evidence against decision F 
+Minimum similarity: 0.0688124551695135 for instance 365 with values: region_22,Mastersabove,m,sourcing,1,28,1,4,F,F,80,
+Evidence in favor of decision F 
+Maximum similarity: 0.203231329454713 for instance 635 with values: region_2,Bachelors,m,other,1,39,5,6,T,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.131279867032745
+Evidence against decision T 
+Minimum similarity: 0.0724873526879453 for instance 695 with values: region_26,Mastersabove,m,sourcing,2,29,null,1,F,F,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.187774295252239 for instance 896 with values: region_22,Bachelors,m,other,1,31,3,2,T,T,87,
+
+----------------------------------------------------------
+Testing instance: 37 with values region_2,Mastersabove,m,sourcing,3,43,2,12,T,F,88,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.133287128649447
+Evidence against decision F 
+Minimum similarity: 0.0577756963619068 for instance 141 with values: region_22,Bachelors,f,other,1,27,null,1,F,F,79,
+Evidence in favor of decision F 
+Maximum similarity: 0.254567450530617 for instance 58 with values: region_2,Mastersabove,m,sourcing,2,41,3,12,T,F,81,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.129986965939527
+Evidence against decision T 
+Minimum similarity: 0.0912455255175811 for instance 299 with values: region_22,Bachelors,m,other,1,31,5,3,F,F,82,
+Evidence in favor of decision T 
+Maximum similarity: 0.248027896084676 for instance 697 with values: region_2,Mastersabove,m,sourcing,1,41,3,13,T,F,85,
+
+----------------------------------------------------------
+Testing instance: 38 with values region_26,Mastersabove,m,other,2,34,3,3,F,F,83,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.153959275727896
+Evidence against decision F 
+Minimum similarity: 0.0903542473077006 for instance 421 with values: region_22,Bachelors,f,sourcing,1,31,5,3,T,F,88,
+Evidence in favor of decision F 
+Maximum similarity: 0.285974450268448 for instance 509 with values: region_26,Mastersabove,m,other,2,30,3,4,F,F,82,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.14018120257354
+Evidence against decision T 
+Minimum similarity: 0.075761884806565 for instance 498 with values: region_22,Bachelors,m,sourcing,1,30,null,1,T,T,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.207495368436471 for instance 494 with values: region_26,Bachelors,m,other,1,33,3,4,F,F,84,
+
+----------------------------------------------------------
+Testing instance: 39 with values region_19,Bachelors,m,other,2,38,3,10,F,F,85,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.151561639197946
+Evidence against decision F 
+Minimum similarity: 0.0704566933683275 for instance 741 with values: region_26,Mastersabove,f,sourcing,1,28,null,1,T,F,82,
+Evidence in favor of decision F 
+Maximum similarity: 0.285544460541338 for instance 129 with values: region_19,Bachelors,m,other,2,36,3,7,F,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.137236846328477
+Evidence against decision T 
+Minimum similarity: 0.0866890167781886 for instance 799 with values: region_22,Mastersabove,m,sourcing,1,29,null,1,T,F,77,
+Evidence in favor of decision T 
+Maximum similarity: 0.201843494405512 for instance 494 with values: region_26,Bachelors,m,other,1,33,3,4,F,F,84,
+
+----------------------------------------------------------
+Testing instance: 40 with values region_22,null,m,other,1,27,null,1,F,F,86,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.1273253269444
+Evidence against decision F 
+Minimum similarity: 0.0704713691870336 for instance 358 with values: region_26,Bachelors,m,sourcing,1,41,3,7,T,T,81,
+Evidence in favor of decision F 
+Maximum similarity: 0.301511344577764 for instance 40 with values: region_22,null,m,other,1,27,null,1,F,F,86,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.121827313509821
+Evidence against decision T 
+Minimum similarity: 0.0728546417862032 for instance 97 with values: region_26,Bachelors,m,sourcing,2,40,3,2,T,T,84,
+Evidence in favor of decision T 
+Maximum similarity: 0.171870454984826 for instance 796 with values: region_22,null,m,other,1,29,5,2,T,F,83,
+
+----------------------------------------------------------
+Testing instance: 41 with values region_27,Mastersabove,m,other,1,27,null,1,F,F,80,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.130063649289103
+Evidence against decision F 
+Minimum similarity: 0.0716634986931291 for instance 358 with values: region_26,Bachelors,m,sourcing,1,41,3,7,T,T,81,
+Evidence in favor of decision F 
+Maximum similarity: 0.301511344577764 for instance 41 with values: region_27,Mastersabove,m,other,1,27,null,1,F,F,80,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.12057575515212
+Evidence against decision T 
+Minimum similarity: 0.0722547051605393 for instance 97 with values: region_26,Bachelors,m,sourcing,2,40,3,2,T,T,84,
+Evidence in favor of decision T 
+Maximum similarity: 0.1701198710295 for instance 195 with values: region_22,Mastersabove,m,other,2,28,null,1,T,F,83,
+
+----------------------------------------------------------
+Testing instance: 42 with values region_26,Bachelors,m,sourcing,1,30,3,3,F,F,79,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.152190678505851
+Evidence against decision F 
+Minimum similarity: 0.0896719827843706 for instance 73 with values: region_2,Mastersabove,f,other,1,36,3,9,T,F,89,
+Evidence in favor of decision F 
+Maximum similarity: 0.282372588596902 for instance 109 with values: region_26,Bachelors,m,sourcing,1,30,3,3,F,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.139636774091795
+Evidence against decision T 
+Minimum similarity: 0.0941732516064047 for instance 99 with values: region_2,Mastersabove,f,other,1,33,null,1,F,F,87,
+Evidence in favor of decision T 
+Maximum similarity: 0.206802754109258 for instance 494 with values: region_26,Bachelors,m,other,1,33,3,4,F,F,84,
+
+----------------------------------------------------------
+Testing instance: 43 with values region_2,Bachelors,m,other,2,35,4,7,T,F,83,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.153944364317985
+Evidence against decision F 
+Minimum similarity: 0.0856853472509762 for instance 889 with values: region_7,Mastersabove,m,sourcing,1,33,null,1,F,F,96,
+Evidence in favor of decision F 
+Maximum similarity: 0.266133955086203 for instance 635 with values: region_2,Bachelors,m,other,1,39,5,6,T,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.159012855507656
+Evidence against decision T 
+Minimum similarity: 0.0937640905731391 for instance 695 with values: region_26,Mastersabove,m,sourcing,2,29,null,1,F,F,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.207708179837691 for instance 296 with values: region_22,Bachelors,m,other,2,30,4,4,T,F,84,
+
+----------------------------------------------------------
+Testing instance: 44 with values region_7,Mastersabove,m,sourcing,1,40,5,2,F,F,86,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.146523319286429
+Evidence against decision F 
+Minimum similarity: 0.0742099906939091 for instance 270 with values: region_22,Bachelors,f,other,2,31,1,2,T,F,81,
+Evidence in favor of decision F 
+Maximum similarity: 0.267832986731288 for instance 815 with values: region_7,Mastersabove,m,sourcing,1,36,5,7,F,F,82,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.133527520606667
+Evidence against decision T 
+Minimum similarity: 0.0889142776683455 for instance 899 with values: region_2,null,m,other,2,24,null,1,T,F,83,
+Evidence in favor of decision T 
+Maximum similarity: 0.206397412377918 for instance 593 with values: region_27,Mastersabove,m,sourcing,1,33,5,4,F,F,88,
+
+----------------------------------------------------------
+Testing instance: 45 with values region_25,Mastersabove,m,other,1,30,5,3,T,F,90,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.141177412257509
+Evidence against decision F 
+Minimum similarity: 0.0760140692246057 for instance 491 with values: region_22,Bachelors,f,sourcing,1,28,null,1,F,F,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.263666148358729 for instance 272 with values: region_25,Mastersabove,m,other,2,30,5,5,T,F,84,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.149829049917483
+Evidence against decision T 
+Minimum similarity: 0.0865011068185783 for instance 699 with values: region_22,Bachelors,m,sourcing,2,29,3,2,F,T,80,
+Evidence in favor of decision T 
+Maximum similarity: 0.210409305108829 for instance 798 with values: region_22,Mastersabove,m,other,1,31,5,3,T,F,89,
+
+----------------------------------------------------------
+Testing instance: 46 with values region_22,Mastersabove,m,sourcing,1,32,5,6,F,F,88,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.152394677524741
+Evidence against decision F 
+Minimum similarity: 0.0892335863141298 for instance 70 with values: region_26,Bachelors,m,referred,2,31,3,5,T,T,81,
+Evidence in favor of decision F 
+Maximum similarity: 0.27355627155346 for instance 69 with values: region_22,Mastersabove,m,sourcing,1,34,5,2,F,F,84,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.143649200162407
+Evidence against decision T 
+Minimum similarity: 0.0923082380924123 for instance 899 with values: region_2,null,m,other,2,24,null,1,T,F,83,
+Evidence in favor of decision T 
+Maximum similarity: 0.265733805272145 for instance 396 with values: region_22,Mastersabove,m,sourcing,2,27,5,4,F,F,84,
+
+----------------------------------------------------------
+Testing instance: 47 with values region_3,Mastersabove,m,other,1,38,3,9,T,F,82,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.143291171086561
+Evidence against decision F 
+Minimum similarity: 0.0728251147772551 for instance 491 with values: region_22,Bachelors,f,sourcing,1,28,null,1,F,F,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.210535038065472 for instance 839 with values: region_28,Mastersabove,m,other,1,37,3,9,T,F,82,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.145273565173563
+Evidence against decision T 
+Minimum similarity: 0.090812333482438 for instance 498 with values: region_22,Bachelors,m,sourcing,1,30,null,1,T,T,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.205565876677693 for instance 497 with values: region_4,Mastersabove,m,other,1,42,4,8,T,F,85,
+
+----------------------------------------------------------
+Testing instance: 48 with values region_2,Bachelors,m,other,1,30,3,4,F,F,85,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.161568448040941
+Evidence against decision F 
+Minimum similarity: 0.0777977833340044 for instance 741 with values: region_26,Mastersabove,f,sourcing,1,28,null,1,T,F,82,
+Evidence in favor of decision F 
+Maximum similarity: 0.294518337584757 for instance 834 with values: region_2,Bachelors,m,other,1,32,3,4,F,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.145223621155618
+Evidence against decision T 
+Minimum similarity: 0.0923705913345124 for instance 297 with values: region_4,Mastersabove,f,sourcing,1,35,5,3,T,F,84,
+Evidence in favor of decision T 
+Maximum similarity: 0.210409305108829 for instance 295 with values: region_7,Bachelors,m,other,1,29,3,3,F,F,85,
+
+----------------------------------------------------------
+Testing instance: 49 with values region_29,Bachelors,m,sourcing,1,30,null,1,F,F,83,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.132399410977998
+Evidence against decision F 
+Minimum similarity: 0.0722089165847034 for instance 39 with values: region_23,Mastersabove,m,other,2,37,3,10,T,T,84,
+Evidence in favor of decision F 
+Maximum similarity: 0.301511344577764 for instance 49 with values: region_29,Bachelors,m,sourcing,1,30,null,1,F,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.124216298590576
+Evidence against decision T 
+Minimum similarity: 0.0779816341655489 for instance 797 with values: region_4,Mastersabove,f,other,1,34,3,3,T,F,81,
+Evidence in favor of decision T 
+Maximum similarity: 0.191359531819665 for instance 198 with values: region_29,Bachelors,m,sourcing,1,30,5,1,F,F,96,
+
+----------------------------------------------------------
+Testing instance: 50 with values region_15,Mastersabove,m,sourcing,2,35,3,10,F,F,83,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.147167486684024
+Evidence against decision F 
+Minimum similarity: 0.0721561233669826 for instance 353 with values: region_22,Bachelors,f,other,1,29,null,1,T,F,86,
+Evidence in favor of decision F 
+Maximum similarity: 0.269692316610813 for instance 765 with values: region_15,Mastersabove,m,sourcing,2,29,3,5,F,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.129458383527204
+Evidence against decision T 
+Minimum similarity: 0.0901917829142231 for instance 899 with values: region_2,null,m,other,2,24,null,1,T,F,83,
+Evidence in favor of decision T 
+Maximum similarity: 0.192149271324925 for instance 396 with values: region_22,Mastersabove,m,sourcing,2,27,5,4,F,F,84,
+
+----------------------------------------------------------
+Testing instance: 51 with values region_2,Mastersabove,m,sourcing,3,43,5,5,T,F,84,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.138679411289241
+Evidence against decision F 
+Minimum similarity: 0.0654578481887598 for instance 141 with values: region_22,Bachelors,f,other,1,27,null,1,F,F,79,
+Evidence in favor of decision F 
+Maximum similarity: 0.27435013040405 for instance 480 with values: region_2,Mastersabove,m,sourcing,3,37,5,7,T,F,87,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.140869915863066
+Evidence against decision T 
+Minimum similarity: 0.10226086382065 for instance 295 with values: region_7,Bachelors,m,other,1,29,3,3,F,F,85,
+Evidence in favor of decision T 
+Maximum similarity: 0.226217289550002 for instance 697 with values: region_2,Mastersabove,m,sourcing,1,41,3,13,T,F,85,
+
+----------------------------------------------------------
+Testing instance: 52 with values region_31,Bachelors,m,other,1,28,3,5,F,F,86,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.15528514481345
+Evidence against decision F 
+Minimum similarity: 0.0771915709943944 for instance 741 with values: region_26,Mastersabove,f,sourcing,1,28,null,1,T,F,82,
+Evidence in favor of decision F 
+Maximum similarity: 0.274799595435173 for instance 679 with values: region_31,Bachelors,m,other,1,35,3,7,F,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.14145379475088
+Evidence against decision T 
+Minimum similarity: 0.091343252231029 for instance 297 with values: region_4,Mastersabove,f,sourcing,1,35,5,3,T,F,84,
+Evidence in favor of decision T 
+Maximum similarity: 0.209908099053803 for instance 295 with values: region_7,Bachelors,m,other,1,29,3,3,F,F,85,
+
+----------------------------------------------------------
+Testing instance: 53 with values region_22,Bachelors,m,other,2,29,null,1,F,T,85,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.117445693410187
+Evidence against decision F 
+Minimum similarity: 0.057504887464603 for instance 115 with values: region_2,Mastersabove,f,sourcing,1,36,5,4,T,F,81,
+Evidence in favor of decision F 
+Maximum similarity: 0.301511344577764 for instance 53 with values: region_22,Bachelors,m,other,2,29,null,1,F,T,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.116394617288425
+Evidence against decision T 
+Minimum similarity: 0.0587720726002276 for instance 297 with values: region_4,Mastersabove,f,sourcing,1,35,5,3,T,F,84,
+Evidence in favor of decision T 
+Maximum similarity: 0.17065206868133 for instance 699 with values: region_22,Bachelors,m,sourcing,2,29,3,2,F,T,80,
+
+----------------------------------------------------------
+Testing instance: 54 with values region_2,Mastersabove,m,other,1,36,4,9,T,F,81,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.149639304373358
+Evidence against decision F 
+Minimum similarity: 0.0736386781048503 for instance 491 with values: region_22,Bachelors,f,sourcing,1,28,null,1,F,F,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.278024162731024 for instance 754 with values: region_2,Mastersabove,m,other,2,37,4,9,T,F,80,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.150803019634843
+Evidence against decision T 
+Minimum similarity: 0.0909184423159101 for instance 498 with values: region_22,Bachelors,m,sourcing,1,30,null,1,T,T,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.207385432745677 for instance 194 with values: region_4,Mastersabove,m,other,1,36,4,10,T,F,86,
+
+----------------------------------------------------------
+Testing instance: 55 with values region_16,Bachelors,m,sourcing,1,34,3,3,F,F,86,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.152079657480289
+Evidence against decision F 
+Minimum similarity: 0.0937561641588251 for instance 39 with values: region_23,Mastersabove,m,other,2,37,3,10,T,T,84,
+Evidence in favor of decision F 
+Maximum similarity: 0.210476427877092 for instance 155 with values: region_11,Bachelors,m,sourcing,1,34,3,3,F,F,87,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.137772358069179
+Evidence against decision T 
+Minimum similarity: 0.0932830830966071 for instance 899 with values: region_2,null,m,other,2,24,null,1,T,F,83,
+Evidence in favor of decision T 
+Maximum similarity: 0.187901992089375 for instance 198 with values: region_29,Bachelors,m,sourcing,1,30,5,1,F,F,96,
+
+----------------------------------------------------------
+Testing instance: 56 with values region_22,Mastersabove,m,other,1,34,5,2,T,F,78,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.146906309952853
+Evidence against decision F 
+Minimum similarity: 0.0793348587630267 for instance 273 with values: region_31,Bachelors,m,sourcing,1,36,2,7,F,T,89,
+Evidence in favor of decision F 
+Maximum similarity: 0.272803210606472 for instance 764 with values: region_22,Mastersabove,m,other,1,34,5,2,T,F,84,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.15818455322282
+Evidence against decision T 
+Minimum similarity: 0.0997843863379436 for instance 198 with values: region_29,Bachelors,m,sourcing,1,30,5,1,F,F,96,
+Evidence in favor of decision T 
+Maximum similarity: 0.261440868365123 for instance 93 with values: region_22,Mastersabove,m,other,1,32,5,4,T,F,86,
+
+----------------------------------------------------------
+Testing instance: 57 with values region_22,Bachelors,m,other,2,32,5,5,T,F,81,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.152887624352198
+Evidence against decision F 
+Minimum similarity: 0.0838686523776512 for instance 889 with values: region_7,Mastersabove,m,sourcing,1,33,null,1,F,F,96,
+Evidence in favor of decision F 
+Maximum similarity: 0.293038128211756 for instance 170 with values: region_22,Bachelors,m,other,2,30,5,6,T,F,81,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.167776130750449
+Evidence against decision T 
+Minimum similarity: 0.0909334586216023 for instance 394 with values: region_4,Mastersabove,m,sourcing,1,34,3,4,F,T,85,
+Evidence in favor of decision T 
+Maximum similarity: 0.273326888573905 for instance 296 with values: region_22,Bachelors,m,other,2,30,4,4,T,F,84,
+
+----------------------------------------------------------
+Testing instance: 58 with values region_26,Bachelors,m,sourcing,4,41,4,12,T,F,84,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.131112804320333
+Evidence against decision F 
+Minimum similarity: 0.0570133705593775 for instance 840 with values: region_22,Mastersabove,f,other,1,26,null,1,F,F,85,
+Evidence in favor of decision F 
+Maximum similarity: 0.248072555373747 for instance 804 with values: region_26,Bachelors,m,sourcing,4,33,5,4,T,F,86,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.138448250921467
+Evidence against decision T 
+Minimum similarity: 0.060691715227347 for instance 99 with values: region_2,Mastersabove,f,other,1,33,null,1,F,F,87,
+Evidence in favor of decision T 
+Maximum similarity: 0.195002043165273 for instance 496 with values: region_22,Bachelors,m,sourcing,3,31,5,6,T,F,84,
+
+----------------------------------------------------------
+Testing instance: 59 with values region_4,Mastersabove,m,other,1,42,5,10,T,F,89,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.139086086065474
+Evidence against decision F 
+Minimum similarity: 0.0677133716175999 for instance 491 with values: region_22,Bachelors,f,sourcing,1,28,null,1,F,F,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.270574634422931 for instance 35 with values: region_4,Mastersabove,m,other,1,39,5,11,T,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.146788992251099
+Evidence against decision T 
+Minimum similarity: 0.0794964904499355 for instance 699 with values: region_22,Bachelors,m,sourcing,2,29,3,2,F,T,80,
+Evidence in favor of decision T 
+Maximum similarity: 0.270296061442118 for instance 497 with values: region_4,Mastersabove,m,other,1,42,4,8,T,F,85,
+
+----------------------------------------------------------
+Testing instance: 60 with values region_22,Bachelors,m,sourcing,1,26,3,2,T,F,85,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.151539998763165
+Evidence against decision F 
+Minimum similarity: 0.0887746412984038 for instance 111 with values: region_2,Mastersabove,f,other,1,37,5,6,F,F,86,
+Evidence in favor of decision F 
+Maximum similarity: 0.284842972293297 for instance 752 with values: region_22,Bachelors,m,sourcing,1,28,3,5,T,F,84,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.162297084223048
+Evidence against decision T 
+Minimum similarity: 0.0772340733223802 for instance 99 with values: region_2,Mastersabove,f,other,1,33,null,1,F,F,87,
+Evidence in favor of decision T 
+Maximum similarity: 0.266459006018737 for instance 595 with values: region_22,Bachelors,m,sourcing,2,30,4,2,T,F,85,
+
+----------------------------------------------------------
+Testing instance: 61 with values region_22,Mastersabove,m,other,4,31,null,1,F,F,84,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.128346295084718
+Evidence against decision F 
+Minimum similarity: 0.063838697739027 for instance 358 with values: region_26,Bachelors,m,sourcing,1,41,3,7,T,T,81,
+Evidence in favor of decision F 
+Maximum similarity: 0.301511344577764 for instance 61 with values: region_22,Mastersabove,m,other,4,31,null,1,F,F,84,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.121232740216556
+Evidence against decision T 
+Minimum similarity: 0.0675406106974221 for instance 96 with values: region_7,Bachelors,m,sourcing,1,29,5,5,T,T,86,
+Evidence in favor of decision T 
+Maximum similarity: 0.199220085950806 for instance 195 with values: region_22,Mastersabove,m,other,2,28,null,1,T,F,83,
+
+----------------------------------------------------------
+Testing instance: 62 with values region_2,Bachelors,m,sourcing,1,35,1,7,F,F,87,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.14812107459477
+Evidence against decision F 
+Minimum similarity: 0.0876385642279464 for instance 313 with values: region_22,Mastersabove,f,other,2,29,3,2,T,F,81,
+Evidence in favor of decision F 
+Maximum similarity: 0.278891051552364 for instance 851 with values: region_2,Bachelors,m,sourcing,1,40,1,7,F,F,84,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.127726612214613
+Evidence against decision T 
+Minimum similarity: 0.09034528616549 for instance 797 with values: region_4,Mastersabove,f,other,1,34,3,3,T,F,81,
+Evidence in favor of decision T 
+Maximum similarity: 0.168388903581504 for instance 197 with values: region_2,Bachelors,m,sourcing,2,36,5,2,T,F,85,
+
+----------------------------------------------------------
+Testing instance: 63 with values region_22,Bachelors,m,other,3,31,5,6,T,F,82,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.1491323667967
+Evidence against decision F 
+Minimum similarity: 0.0812915909691082 for instance 889 with values: region_7,Mastersabove,m,sourcing,1,33,null,1,F,F,96,
+Evidence in favor of decision F 
+Maximum similarity: 0.281014889727444 for instance 354 with values: region_22,Bachelors,m,other,3,36,5,8,T,F,81,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.163664284236259
+Evidence against decision T 
+Minimum similarity: 0.087356756676857 for instance 394 with values: region_4,Mastersabove,m,sourcing,1,34,3,4,F,T,85,
+Evidence in favor of decision T 
+Maximum similarity: 0.266462387700444 for instance 296 with values: region_22,Bachelors,m,other,2,30,4,4,T,F,84,
+
+----------------------------------------------------------
+Testing instance: 64 with values region_4,Mastersabove,m,other,1,35,5,4,T,F,85,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.145726427269452
+Evidence against decision F 
+Minimum similarity: 0.0768261417004751 for instance 491 with values: region_22,Bachelors,f,sourcing,1,28,null,1,F,F,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.284388966806057 for instance 669 with values: region_4,Mastersabove,m,other,1,32,5,2,T,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.154628874221346
+Evidence against decision T 
+Minimum similarity: 0.089358139997745 for instance 699 with values: region_22,Bachelors,m,sourcing,2,29,3,2,F,T,80,
+Evidence in favor of decision T 
+Maximum similarity: 0.264419503598709 for instance 194 with values: region_4,Mastersabove,m,other,1,36,4,10,T,F,86,
+
+----------------------------------------------------------
+Testing instance: 65 with values region_22,Bachelors,f,sourcing,1,28,3,4,T,F,83,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.129272538194429
+Evidence against decision F 
+Minimum similarity: 0.0735579933568687 for instance 192 with values: region_11,Mastersabove,m,other,3,29,null,1,F,F,81,
+Evidence in favor of decision F 
+Maximum similarity: 0.24886754151327 for instance 421 with values: region_22,Bachelors,f,sourcing,1,31,5,3,T,F,88,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.137972309237271
+Evidence against decision T 
+Minimum similarity: 0.0872705893761009 for instance 397 with values: region_2,Mastersabove,m,other,1,42,5,5,F,F,81,
+Evidence in favor of decision T 
+Maximum similarity: 0.203891834241926 for instance 595 with values: region_22,Bachelors,m,sourcing,2,30,4,2,T,F,85,
+
+----------------------------------------------------------
+Testing instance: 66 with values region_2,Mastersabove,m,other,1,37,3,2,F,F,85,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.157385784634837
+Evidence against decision F 
+Minimum similarity: 0.0891946633190378 for instance 265 with values: region_11,Bachelors,m,sourcing,2,28,1,4,T,T,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.283902402783276 for instance 244 with values: region_2,Mastersabove,m,other,1,41,3,4,F,F,86,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.138646418878209
+Evidence against decision T 
+Minimum similarity: 0.0769790292072017 for instance 498 with values: region_22,Bachelors,m,sourcing,1,30,null,1,T,T,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.247251918304265 for instance 397 with values: region_2,Mastersabove,m,other,1,42,5,5,F,F,81,
+
+----------------------------------------------------------
+Testing instance: 67 with values region_15,Bachelors,m,other,2,35,null,1,F,F,87,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.135007444626306
+Evidence against decision F 
+Minimum similarity: 0.0750216504374336 for instance 613 with values: region_22,Mastersabove,m,sourcing,1,28,4,2,T,T,82,
+Evidence in favor of decision F 
+Maximum similarity: 0.301511344577764 for instance 67 with values: region_15,Bachelors,m,other,2,35,null,1,F,F,87,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.126359193954355
+Evidence against decision T 
+Minimum similarity: 0.0770098567892055 for instance 297 with values: region_4,Mastersabove,f,sourcing,1,35,5,3,T,F,84,
+Evidence in favor of decision T 
+Maximum similarity: 0.172430560961746 for instance 199 with values: region_27,Bachelors,m,other,2,32,null,1,T,F,86,
+
+----------------------------------------------------------
+Testing instance: 68 with values region_16,Mastersabove,m,other,2,33,3,4,F,F,80,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.150328551136729
+Evidence against decision F 
+Minimum similarity: 0.088340234914069 for instance 421 with values: region_22,Bachelors,f,sourcing,1,31,5,3,T,F,88,
+Evidence in favor of decision F 
+Maximum similarity: 0.248734386010978 for instance 430 with values: region_16,Mastersabove,m,other,1,29,4,2,F,F,88,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.134088472449576
+Evidence against decision T 
+Minimum similarity: 0.0737295569466149 for instance 498 with values: region_22,Bachelors,m,sourcing,1,30,null,1,T,T,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.19299729025196 for instance 794 with values: region_28,Mastersabove,m,other,1,37,5,8,F,F,84,
+
+----------------------------------------------------------
+Testing instance: 69 with values region_8,Bachelors,m,other,2,33,5,2,T,F,84,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.14588687727334
+Evidence against decision F 
+Minimum similarity: 0.0884116573803571 for instance 859 with values: region_2,Mastersabove,f,sourcing,1,36,3,7,F,F,90,
+Evidence in favor of decision F 
+Maximum similarity: 0.264470553963111 for instance 603 with values: region_8,Bachelors,m,other,1,30,4,5,T,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.157059828611932
+Evidence against decision T 
+Minimum similarity: 0.0916741446862961 for instance 394 with values: region_4,Mastersabove,m,sourcing,1,34,3,4,F,T,85,
+Evidence in favor of decision T 
+Maximum similarity: 0.207422093697961 for instance 897 with values: region_11,Bachelors,m,other,2,31,4,2,T,F,83,
+
+----------------------------------------------------------
+Testing instance: 70 with values region_22,Bachelors,m,other,1,30,4,5,F,F,81,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.162624530855527
+Evidence against decision F 
+Minimum similarity: 0.0778489556171155 for instance 741 with values: region_26,Mastersabove,f,sourcing,1,28,null,1,T,F,82,
+Evidence in favor of decision F 
+Maximum similarity: 0.286737557800858 for instance 820 with values: region_22,Bachelors,m,other,1,31,4,5,F,F,84,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.153605167388516
+Evidence against decision T 
+Minimum similarity: 0.0954965547521657 for instance 297 with values: region_4,Mastersabove,f,sourcing,1,35,5,3,T,F,84,
+Evidence in favor of decision T 
+Maximum similarity: 0.276149548382983 for instance 299 with values: region_22,Bachelors,m,other,1,31,5,3,F,F,82,
+
+----------------------------------------------------------
+Testing instance: 71 with values region_2,Bachelors,m,other,1,26,3,3,F,F,89,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.157940962518523
+Evidence against decision F 
+Minimum similarity: 0.0760140692246057 for instance 741 with values: region_26,Mastersabove,f,sourcing,1,28,null,1,T,F,82,
+Evidence in favor of decision F 
+Maximum similarity: 0.27271369622735 for instance 834 with values: region_2,Bachelors,m,other,1,32,3,4,F,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.142929148159953
+Evidence against decision T 
+Minimum similarity: 0.0894947663477218 for instance 297 with values: region_4,Mastersabove,f,sourcing,1,35,5,3,T,F,84,
+Evidence in favor of decision T 
+Maximum similarity: 0.208019181158994 for instance 295 with values: region_7,Bachelors,m,other,1,29,3,3,F,F,85,
+
+----------------------------------------------------------
+Testing instance: 72 with values region_22,null,m,other,1,30,3,4,F,F,84,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.147633072945561
+Evidence against decision F 
+Minimum similarity: 0.0780537619351947 for instance 741 with values: region_26,Mastersabove,f,sourcing,1,28,null,1,T,F,82,
+Evidence in favor of decision F 
+Maximum similarity: 0.301511344577764 for instance 72 with values: region_22,null,m,other,1,30,3,4,F,F,84,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.136658803651218
+Evidence against decision T 
+Minimum similarity: 0.0924253301760979 for instance 297 with values: region_4,Mastersabove,f,sourcing,1,35,5,3,T,F,84,
+Evidence in favor of decision T 
+Maximum similarity: 0.19958690910393 for instance 596 with values: region_22,Bachelors,m,other,3,29,3,3,F,F,83,
+
+----------------------------------------------------------
+Testing instance: 73 with values region_7,Mastersabove,m,other,1,36,3,8,F,F,90,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.151858456170415
+Evidence against decision F 
+Minimum similarity: 0.0858190975841012 for instance 641 with values: region_11,Bachelors,m,sourcing,1,28,null,1,T,F,78,
+Evidence in favor of decision F 
+Maximum similarity: 0.276131694952354 for instance 424 with values: region_7,Mastersabove,m,other,1,34,3,7,F,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.135156361643235
+Evidence against decision T 
+Minimum similarity: 0.0751482769935575 for instance 498 with values: region_22,Bachelors,m,sourcing,1,30,null,1,T,T,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.201470470194759 for instance 295 with values: region_7,Bachelors,m,other,1,29,3,3,F,F,85,
+
+----------------------------------------------------------
+Testing instance: 74 with values region_4,Mastersabove,m,other,1,47,2,16,T,F,81,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.127631381856088
+Evidence against decision F 
+Minimum similarity: 0.0581130093751143 for instance 491 with values: region_22,Bachelors,f,sourcing,1,28,null,1,F,F,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.236304325730404 for instance 644 with values: region_4,Mastersabove,m,other,1,40,3,5,T,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.127357057444674
+Evidence against decision T 
+Minimum similarity: 0.0744832546235134 for instance 198 with values: region_29,Bachelors,m,sourcing,1,30,5,1,F,F,96,
+Evidence in favor of decision T 
+Maximum similarity: 0.236679145613972 for instance 497 with values: region_4,Mastersabove,m,other,1,42,4,8,T,F,85,
+
+----------------------------------------------------------
+Testing instance: 75 with values region_29,Bachelors,m,sourcing,1,32,3,4,F,F,85,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.153040348068562
+Evidence against decision F 
+Minimum similarity: 0.0941673511812157 for instance 39 with values: region_23,Mastersabove,m,other,2,37,3,10,T,T,84,
+Evidence in favor of decision F 
+Maximum similarity: 0.286528151519733 for instance 717 with values: region_29,Bachelors,m,sourcing,1,29,3,3,F,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.139177795521828
+Evidence against decision T 
+Minimum similarity: 0.094342598000905 for instance 899 with values: region_2,null,m,other,2,24,null,1,T,F,83,
+Evidence in favor of decision T 
+Maximum similarity: 0.230159118327947 for instance 198 with values: region_29,Bachelors,m,sourcing,1,30,5,1,F,F,96,
+
+----------------------------------------------------------
+Testing instance: 76 with values region_26,Bachelors,m,other,1,34,5,5,F,F,87,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.154221945098237
+Evidence against decision F 
+Minimum similarity: 0.0781632102814228 for instance 879 with values: region_15,Mastersabove,m,sourcing,1,34,1,7,T,T,84,
+Evidence in favor of decision F 
+Maximum similarity: 0.27435013040405 for instance 701 with values: region_26,Bachelors,m,other,1,28,5,2,F,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.148454238920083
+Evidence against decision T 
+Minimum similarity: 0.0910747286438875 for instance 799 with values: region_22,Mastersabove,m,sourcing,1,29,null,1,T,F,77,
+Evidence in favor of decision T 
+Maximum similarity: 0.286528151519733 for instance 193 with values: region_26,Bachelors,m,other,1,31,5,3,F,F,86,
+
+----------------------------------------------------------
+Testing instance: 77 with values region_4,Mastersabove,m,other,2,36,1,10,F,F,85,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.142026782597005
+Evidence against decision F 
+Minimum similarity: 0.0740541999725772 for instance 421 with values: region_22,Bachelors,f,sourcing,1,31,5,3,T,F,88,
+Evidence in favor of decision F 
+Maximum similarity: 0.259073181823233 for instance 844 with values: region_4,Mastersabove,m,other,1,40,2,5,F,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.123860243103067
+Evidence against decision T 
+Minimum similarity: 0.0721561233669826 for instance 498 with values: region_22,Bachelors,m,sourcing,1,30,null,1,T,T,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.185525805328698 for instance 194 with values: region_4,Mastersabove,m,other,1,36,4,10,T,F,86,
+
+----------------------------------------------------------
+Testing instance: 78 with values region_22,Mastersabove,m,other,1,37,3,5,T,F,84,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.152750014279548
+Evidence against decision F 
+Minimum similarity: 0.0827888044721093 for instance 690 with values: region_2,null,m,sourcing,4,26,null,1,F,F,85,
+Evidence in favor of decision F 
+Maximum similarity: 0.286278218271856 for instance 555 with values: region_22,Mastersabove,m,other,1,35,3,3,T,F,86,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.159930447081874
+Evidence against decision T 
+Minimum similarity: 0.103052436877831 for instance 198 with values: region_29,Bachelors,m,sourcing,1,30,5,1,F,F,96,
+Evidence in favor of decision T 
+Maximum similarity: 0.25164933134213 for instance 93 with values: region_22,Mastersabove,m,other,1,32,5,4,T,F,86,
+
+----------------------------------------------------------
+Testing instance: 79 with values region_7,Bachelors,m,sourcing,1,32,1,7,F,F,85,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.145748499074685
+Evidence against decision F 
+Minimum similarity: 0.0863136756817363 for instance 143 with values: region_2,Mastersabove,f,other,1,35,4,4,T,F,84,
+Evidence in favor of decision F 
+Maximum similarity: 0.273879779418598 for instance 366 with values: region_7,Bachelors,m,sourcing,1,37,1,3,F,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.127732707828864
+Evidence against decision T 
+Minimum similarity: 0.0913449441711804 for instance 797 with values: region_4,Mastersabove,f,other,1,34,3,3,T,F,81,
+Evidence in favor of decision T 
+Maximum similarity: 0.197555102229354 for instance 295 with values: region_7,Bachelors,m,other,1,29,3,3,F,F,85,
+
+----------------------------------------------------------
+Testing instance: 80 with values region_25,Mastersabove,m,other,1,37,5,6,T,F,90,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.141001587455864
+Evidence against decision F 
+Minimum similarity: 0.0728825061910036 for instance 491 with values: region_22,Bachelors,f,sourcing,1,28,null,1,F,F,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.262027795377331 for instance 812 with values: region_25,Mastersabove,m,other,1,38,4,9,T,F,84,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.148467168229768
+Evidence against decision T 
+Minimum similarity: 0.0839268555048008 for instance 699 with values: region_22,Bachelors,m,sourcing,2,29,3,2,F,T,80,
+Evidence in favor of decision T 
+Maximum similarity: 0.206994073039886 for instance 798 with values: region_22,Mastersabove,m,other,1,31,5,3,T,F,89,
+
+----------------------------------------------------------
+Testing instance: 81 with values region_11,Bachelors,m,other,1,29,3,3,T,F,88,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.148744453617922
+Evidence against decision F 
+Minimum similarity: 0.0861541611716209 for instance 690 with values: region_2,null,m,sourcing,4,26,null,1,F,F,85,
+Evidence in favor of decision F 
+Maximum similarity: 0.265139099288904 for instance 867 with values: region_11,Bachelors,m,other,1,35,2,3,T,F,84,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.156359765282907
+Evidence against decision T 
+Minimum similarity: 0.0967421672821307 for instance 695 with values: region_26,Mastersabove,m,sourcing,2,29,null,1,F,F,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.260557901909922 for instance 897 with values: region_11,Bachelors,m,other,2,31,4,2,T,F,83,
+
+----------------------------------------------------------
+Testing instance: 82 with values region_27,Mastersabove,m,other,2,30,3,7,F,F,89,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.150133819916118
+Evidence against decision F 
+Minimum similarity: 0.088246286069302 for instance 641 with values: region_11,Bachelors,m,sourcing,1,28,null,1,T,F,78,
+Evidence in favor of decision F 
+Maximum similarity: 0.267153912481244 for instance 131 with values: region_27,Mastersabove,m,other,1,30,3,2,F,F,87,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.135151344816106
+Evidence against decision T 
+Minimum similarity: 0.0757894892114333 for instance 498 with values: region_22,Bachelors,m,sourcing,1,30,null,1,T,T,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.195747126828397 for instance 593 with values: region_27,Mastersabove,m,sourcing,1,33,5,4,F,F,88,
+
+----------------------------------------------------------
+Testing instance: 83 with values region_22,Mastersabove,m,other,1,38,5,3,T,F,83,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.149360515275252
+Evidence against decision F 
+Minimum similarity: 0.0826170832199894 for instance 690 with values: region_2,null,m,sourcing,4,26,null,1,F,F,85,
+Evidence in favor of decision F 
+Maximum similarity: 0.285974450268448 for instance 764 with values: region_22,Mastersabove,m,other,1,34,5,2,T,F,84,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.161128920280424
+Evidence against decision T 
+Minimum similarity: 0.107087020925503 for instance 198 with values: region_29,Bachelors,m,sourcing,1,30,5,1,F,F,96,
+Evidence in favor of decision T 
+Maximum similarity: 0.275645308757647 for instance 93 with values: region_22,Mastersabove,m,other,1,32,5,4,T,F,86,
+
+----------------------------------------------------------
+Testing instance: 84 with values region_2,Mastersabove,m,sourcing,2,34,3,7,F,F,90,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.1523622282435
+Evidence against decision F 
+Minimum similarity: 0.0743563465274036 for instance 353 with values: region_22,Bachelors,f,other,1,29,null,1,T,F,86,
+Evidence in favor of decision F 
+Maximum similarity: 0.266168553422993 for instance 55 with values: region_2,Mastersabove,m,sourcing,1,34,3,3,F,F,86,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.133046412329764
+Evidence against decision T 
+Minimum similarity: 0.0942670888946182 for instance 498 with values: region_22,Bachelors,m,sourcing,1,30,null,1,T,T,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.197701271802882 for instance 697 with values: region_2,Mastersabove,m,sourcing,1,41,3,13,T,F,85,
+
+----------------------------------------------------------
+Testing instance: 85 with values region_22,Bachelors,m,other,1,32,3,4,T,F,78,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.153434249507754
+Evidence against decision F 
+Minimum similarity: 0.08024681639862 for instance 889 with values: region_7,Mastersabove,m,sourcing,1,33,null,1,F,F,96,
+Evidence in favor of decision F 
+Maximum similarity: 0.285974450268448 for instance 213 with values: region_22,Bachelors,m,other,1,28,3,3,T,F,79,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.163443406847248
+Evidence against decision T 
+Minimum similarity: 0.0906933260816255 for instance 695 with values: region_26,Mastersabove,m,sourcing,2,29,null,1,F,F,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.257852245249473 for instance 296 with values: region_22,Bachelors,m,other,2,30,4,4,T,F,84,
+
+----------------------------------------------------------
+Testing instance: 86 with values region_26,Bachelors,m,other,1,39,5,4,F,F,83,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.152892515214867
+Evidence against decision F 
+Minimum similarity: 0.0776333694108437 for instance 879 with values: region_15,Mastersabove,m,sourcing,1,34,1,7,T,T,84,
+Evidence in favor of decision F 
+Maximum similarity: 0.281014889727444 for instance 256 with values: region_26,Bachelors,m,other,1,34,5,3,F,F,81,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.146299587600869
+Evidence against decision T 
+Minimum similarity: 0.092764934034169 for instance 799 with values: region_22,Mastersabove,m,sourcing,1,29,null,1,T,F,77,
+Evidence in favor of decision T 
+Maximum similarity: 0.269709350352916 for instance 193 with values: region_26,Bachelors,m,other,1,31,5,3,F,F,86,
+
+----------------------------------------------------------
+Testing instance: 87 with values region_22,Mastersabove,m,other,1,35,3,6,F,F,81,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.158672224474947
+Evidence against decision F 
+Minimum similarity: 0.090117976738833 for instance 265 with values: region_11,Bachelors,m,sourcing,2,28,1,4,T,T,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.296726655582548 for instance 543 with values: region_22,Mastersabove,m,other,1,35,3,5,F,F,81,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.144268486100431
+Evidence against decision T 
+Minimum similarity: 0.0907418649522528 for instance 96 with values: region_7,Bachelors,m,sourcing,1,29,5,5,T,T,86,
+Evidence in favor of decision T 
+Maximum similarity: 0.198181325254466 for instance 794 with values: region_28,Mastersabove,m,other,1,37,5,8,F,F,84,
+
+----------------------------------------------------------
+Testing instance: 88 with values region_22,Bachelors,m,other,5,30,1,2,F,F,85,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.131638164442374
+Evidence against decision F 
+Minimum similarity: 0.0591289525475702 for instance 115 with values: region_2,Mastersabove,f,sourcing,1,36,5,4,T,F,81,
+Evidence in favor of decision F 
+Maximum similarity: 0.232168997081397 for instance 865 with values: region_22,Bachelors,m,other,3,29,3,4,F,F,80,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.119765427186264
+Evidence against decision T 
+Minimum similarity: 0.0602590604756025 for instance 297 with values: region_4,Mastersabove,f,sourcing,1,35,5,3,T,F,84,
+Evidence in favor of decision T 
+Maximum similarity: 0.2362509187014 for instance 596 with values: region_22,Bachelors,m,other,3,29,3,3,F,F,83,
+
+----------------------------------------------------------
+Testing instance: 89 with values region_22,Bachelors,m,other,2,32,3,4,T,F,92,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.151912406057987
+Evidence against decision F 
+Minimum similarity: 0.0855613437048356 for instance 183 with values: region_7,Mastersabove,f,sourcing,1,38,5,4,F,F,82,
+Evidence in favor of decision F 
+Maximum similarity: 0.272760627078169 for instance 645 with values: region_22,Bachelors,m,other,2,28,4,3,T,F,90,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.163915314578814
+Evidence against decision T 
+Minimum similarity: 0.094123991269331 for instance 394 with values: region_4,Mastersabove,m,sourcing,1,34,3,4,F,T,85,
+Evidence in favor of decision T 
+Maximum similarity: 0.264416308151256 for instance 196 with values: region_22,Bachelors,m,other,1,28,3,6,T,F,87,
+
+----------------------------------------------------------
+Testing instance: 90 with values region_2,null,m,sourcing,1,25,null,1,F,F,87,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.122156000130827
+Evidence against decision F 
+Minimum similarity: 0.0692955495500332 for instance 39 with values: region_23,Mastersabove,m,other,2,37,3,10,T,T,84,
+Evidence in favor of decision F 
+Maximum similarity: 0.301511344577764 for instance 90 with values: region_2,null,m,sourcing,1,25,null,1,F,F,87,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.112042251564431
+Evidence against decision T 
+Minimum similarity: 0.0745911487301321 for instance 797 with values: region_4,Mastersabove,f,other,1,34,3,3,T,F,81,
+Evidence in favor of decision T 
+Maximum similarity: 0.170118968918243 for instance 695 with values: region_26,Mastersabove,m,sourcing,2,29,null,1,F,F,88,
+
+----------------------------------------------------------
+Testing instance: 91 with values region_2,null,m,sourcing,1,27,3,3,F,F,85,
+Real class label: F
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.14214137536978
+Evidence against decision F 
+Minimum similarity: 0.0784639387416655 for instance 353 with values: region_22,Bachelors,f,other,1,29,null,1,T,F,86,
+Evidence in favor of decision F 
+Maximum similarity: 0.301511344577764 for instance 91 with values: region_2,null,m,sourcing,1,27,3,3,F,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.125888088585496
+Evidence against decision T 
+Minimum similarity: 0.0958717148162954 for instance 797 with values: region_4,Mastersabove,f,other,1,34,3,3,T,F,81,
+Evidence in favor of decision T 
+Maximum similarity: 0.163101241097217 for instance 396 with values: region_22,Mastersabove,m,sourcing,2,27,5,4,F,F,84,
+
+----------------------------------------------------------
+Testing instance: 92 with values region_22,Bachelors,m,sourcing,1,29,null,1,T,F,81,
+Real class label: F
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.13210151866641
+Evidence against decision F 
+Minimum similarity: 0.0732293829168612 for instance 374 with values: region_4,Mastersabove,m,other,1,46,4,15,F,F,92,
+Evidence in favor of decision F 
+Maximum similarity: 0.301511344577764 for instance 92 with values: region_22,Bachelors,m,sourcing,1,29,null,1,T,F,81,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.145309778806647
+Evidence against decision T 
+Minimum similarity: 0.092335051149084 for instance 397 with values: region_2,Mastersabove,m,other,1,42,5,5,F,F,81,
+Evidence in favor of decision T 
+Maximum similarity: 0.209153643700915 for instance 98 with values: region_22,Bachelors,m,sourcing,4,28,null,1,T,F,94,
+
+----------------------------------------------------------
+Testing instance: 93 with values region_22,Mastersabove,m,other,2,33,4,4,F,F,86,
+Real class label: T
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.159459582017287
+Evidence against decision F 
+Minimum similarity: 0.08538152391435 for instance 348 with values: region_15,Bachelors,m,sourcing,1,30,1,5,T,T,84,
+Evidence in favor of decision F 
+Maximum similarity: 0.274404266141508 for instance 238 with values: region_22,Mastersabove,m,other,1,34,4,4,F,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.148163144327057
+Evidence against decision T 
+Minimum similarity: 0.0950627062586745 for instance 97 with values: region_26,Bachelors,m,sourcing,2,40,3,2,T,T,84,
+Evidence in favor of decision T 
+Maximum similarity: 0.205024318517997 for instance 93 with values: region_22,Mastersabove,m,other,1,32,5,4,T,F,86,
+
+----------------------------------------------------------
+Testing instance: 94 with values region_2,Mastersabove,f,other,1,34,3,10,F,F,85,
+Real class label: T
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.132316025836709
+Evidence against decision F 
+Minimum similarity: 0.070156053391072 for instance 265 with values: region_11,Bachelors,m,sourcing,2,28,1,4,T,T,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.260838365616698 for instance 577 with values: region_2,Mastersabove,f,other,2,36,4,5,F,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.117363209123868
+Evidence against decision T 
+Minimum similarity: 0.0563435639724757 for instance 498 with values: region_22,Bachelors,m,sourcing,1,30,null,1,T,T,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.210350775758349 for instance 94 with values: region_2,Bachelors,f,other,1,34,3,9,F,F,86,
+
+----------------------------------------------------------
+Testing instance: 95 with values region_22,Mastersabove,m,sourcing,1,28,null,1,T,F,85,
+Real class label: T
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.129596289778465
+Evidence against decision F 
+Minimum similarity: 0.0669555650405086 for instance 474 with values: region_2,Bachelors,m,other,2,48,4,20,F,F,86,
+Evidence in favor of decision F 
+Maximum similarity: 0.276604970746059 for instance 553 with values: region_22,Mastersabove,m,sourcing,2,29,null,1,T,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.142282437167267
+Evidence against decision T 
+Minimum similarity: 0.0745422776291967 for instance 94 with values: region_2,Bachelors,f,other,1,34,3,9,F,F,86,
+Evidence in favor of decision T 
+Maximum similarity: 0.301511344577764 for instance 95 with values: region_22,Mastersabove,m,sourcing,1,28,null,1,T,F,85,
+
+----------------------------------------------------------
+Testing instance: 96 with values region_7,Mastersabove,m,other,1,30,3,5,F,F,86,
+Real class label: T
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.154978291302464
+Evidence against decision F 
+Minimum similarity: 0.0913143100784645 for instance 265 with values: region_11,Bachelors,m,sourcing,2,28,1,4,T,T,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.283902402783276 for instance 424 with values: region_7,Mastersabove,m,other,1,34,3,7,F,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.13842699323989
+Evidence against decision T 
+Minimum similarity: 0.0778047469210945 for instance 498 with values: region_22,Bachelors,m,sourcing,1,30,null,1,T,T,88,
+Evidence in favor of decision T 
+Maximum similarity: 0.209908099053803 for instance 295 with values: region_7,Bachelors,m,other,1,29,3,3,F,F,85,
+
+----------------------------------------------------------
+Testing instance: 97 with values region_7,Mastersabove,m,other,1,38,5,5,T,F,84,
+Real class label: T
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.145693451561409
+Evidence against decision F 
+Minimum similarity: 0.0752404543623271 for instance 491 with values: region_22,Bachelors,f,sourcing,1,28,null,1,F,F,83,
+Evidence in favor of decision F 
+Maximum similarity: 0.286528151519733 for instance 643 with values: region_7,Mastersabove,m,other,1,35,5,7,T,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.151761499986371
+Evidence against decision T 
+Minimum similarity: 0.0882801124141913 for instance 699 with values: region_22,Bachelors,m,sourcing,2,29,3,2,F,T,80,
+Evidence in favor of decision T 
+Maximum similarity: 0.207601556083378 for instance 93 with values: region_22,Mastersabove,m,other,1,32,5,4,T,F,86,
+
+----------------------------------------------------------
+Testing instance: 98 with values region_22,Bachelors,m,sourcing,4,28,null,1,T,F,94,
+Real class label: T
+Proposed class label: T
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.116817746136025
+Evidence against decision F 
+Minimum similarity: 0.0562472869326752 for instance 205 with values: region_2,Mastersabove,m,other,1,32,3,6,F,T,79,
+Evidence in favor of decision F 
+Maximum similarity: 0.214742264466349 for instance 461 with values: region_22,Bachelors,m,sourcing,1,31,null,1,T,F,83,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.131405953242242
+Evidence against decision T 
+Minimum similarity: 0.0721589288546103 for instance 397 with values: region_2,Mastersabove,m,other,1,42,5,5,F,F,81,
+Evidence in favor of decision T 
+Maximum similarity: 0.301511344577764 for instance 98 with values: region_22,Bachelors,m,sourcing,4,28,null,1,T,F,94,
+
+----------------------------------------------------------
+Testing instance: 99 with values region_2,Mastersabove,f,other,1,33,null,1,F,F,87,
+Real class label: T
+Proposed class label: F
+
+Evidence for class F
+Frequency of the decision F: 0.93
+Average similarity to F: 0.115740287291614
+Evidence against decision F 
+Minimum similarity: 0.05598743956948 for instance 358 with values: region_26,Bachelors,m,sourcing,1,41,3,7,T,T,81,
+Evidence in favor of decision F 
+Maximum similarity: 0.206880022578158 for instance 840 with values: region_22,Mastersabove,f,other,1,26,null,1,F,F,85,
+
+Evidence for class T
+Frequency of the decision T: 0.07
+Average similarity to T: 0.10763207040415
+Evidence against decision T 
+Minimum similarity: 0.0582095723252733 for instance 97 with values: region_26,Bachelors,m,sourcing,2,40,3,2,T,T,84,
+Evidence in favor of decision T 
+Maximum similarity: 0.301511344577764 for instance 99 with values: region_2,Mastersabove,f,other,1,33,null,1,F,F,87,
+
+----------------------------------------------------------
